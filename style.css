@@ -1,0 +1,17 @@
+/*Header */
+
+nav div .navbar-nav a {
+    color: gray;
+}
+
+nav div .navbar-nav a:hover {
+    color: black !important
+}
+
+nav div .navbar-nav .active {
+    color: black !important
+}
+
+nav div .navbar-nav .disabled {
+    color:rgba(62, 98, 107, 0.308) !important
+}
